@@ -10,7 +10,7 @@ Be aware that I didn't always use the best practices in the tutorial, so have th
 
 ## Build a project
 
-If you want to use that project, you need to build it and upload it to the touch panel. The first step is to build a project in your IDE. If you are using Visual Studio, go to the Build section, and choose Build Solution. It will generate a cpz file, and it will be in your project folder, under ../SimplSharpProApp/bin/debug/.
+If you want to use that project, you need to build it and upload it to the touch panel. The first step is to build a project in your IDE. If you are using Visual Studio, go to the Build section, and choose Build Solution. It will generate a cpz file, and it will be in your project folder, under ../SimplSharpProApp/bin/Debug/.
 
 ## Uploading to the touchscreen
 
